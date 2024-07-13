@@ -118,10 +118,13 @@ body{
 }
 .buttons{
     position: absolute;
-    bottom:30px;
+    /* bottom:30px; */
+    bottom:90px;
     z-index: 222222;
     text-align: center;
     width:100%;
+    /* border: 1px solid red; */
+    left: 200px;
 }
 .buttons button{
     width:50px;
